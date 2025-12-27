@@ -1,5 +1,5 @@
 # Op Dockerfile
-FROM python:3.10-slim
+FROM python:3.10.4-slim-bullseye
 
 WORKDIR /app
 
